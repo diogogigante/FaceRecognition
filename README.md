@@ -16,10 +16,16 @@
 
 * cd ..
 
-* Na pasta img/known/ colocar fotos de indivíduos para treinar o modelo
+**script.py:**
+
+* ~~Na pasta img/known/ colocar fotos de indivíduos para treinar o modelo~~ (*deprecated*)
+
+**script2.0.py:**
+
+* Ao executar a script, é possível tirar a foto
 
 ## Executar:
 
-* python3 script.py (Na pasta inicial do rep)
+* ~~python3 script.py~~ (*deprecated*)
 
-* Para terminar processo, e fechar a câmara, clicar na tecla: "q"
+* python3 script2.0.py
