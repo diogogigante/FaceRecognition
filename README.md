@@ -4,7 +4,7 @@
 
 ### Comandos:
 
-* git clone [this] (https://github.com/diogogsilva/FaceRecognition/)
+* git clone [this](https://github.com/diogogsilva/FaceRecognition/)
 
 * cd rep_transferido
 
