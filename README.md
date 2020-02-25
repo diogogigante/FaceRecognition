@@ -10,7 +10,7 @@
 
 * git clone https://github.com/ageitgey/face_recognition.git
 
-* cd face_recognition
+* cd [face_recognition](https://github.com/ageitgey/face_recognition.git)
 
 * python3 setup.py install
 
