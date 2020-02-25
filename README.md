@@ -6,7 +6,7 @@
 
 * git clone [this](https://github.com/diogogsilva/FaceRecognition/)
 
-* cd rep_transferido
+* cd [this](https://github.com/diogogsilva/FaceRecognition/)
 
 * git clone https://github.com/ageitgey/face_recognition.git
 
