@@ -28,4 +28,4 @@
 
 * ~~python3 script.py~~ (*deprecated*)
 
-* python3 script2.0.py
+* python3 [script2.0.py](./script2.0.py)
