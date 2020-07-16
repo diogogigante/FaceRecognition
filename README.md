@@ -16,6 +16,8 @@
 
 * cd ..
 
+* mkdir users
+
 **script.py:**
 
 * ~~Na pasta img/known/ colocar fotos de indivíduos para treinar o modelo~~ (*deprecated*)
